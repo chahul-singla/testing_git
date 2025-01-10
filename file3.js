@@ -1,3 +1,3 @@
-function deductnumber(a,b){
-	return a-b;
+function getperson(name,surname){
+	return name + " " +surname;
 }1
